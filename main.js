@@ -62,6 +62,8 @@ class Element {
       position: "absolute"
     });
 
+    
+
     this.phase = phase;
 
     this.svg = this.root.append("svg");
